@@ -1,4 +1,4 @@
-package com.iaditya.testng.sqlite_provider;
+package com.iaditya.testng.redis_provider;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
